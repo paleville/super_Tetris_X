@@ -1,0 +1,28 @@
+﻿  actualGame.cpp
+D:\Projects\HOBBY\c++\super_tetris_X\TetrisX\pinksnake\actualGame.h(44,30): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\Projects\HOBBY\c++\super_tetris_X\TetrisX\pinksnake\actualGame.cpp(64,33): warning C4305: '=': truncamiento de 'double' a 'float'
+D:\Projects\HOBBY\c++\super_tetris_X\TetrisX\pinksnake\actualGame.cpp(93,17): warning C4305: '=': truncamiento de 'double' a 'float'
+D:\Projects\HOBBY\c++\super_tetris_X\TetrisX\pinksnake\actualGame.cpp(185,25): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Projects\HOBBY\c++\super_tetris_X\TetrisX\pinksnake\actualGame.cpp(190,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Projects\HOBBY\c++\super_tetris_X\TetrisX\pinksnake\actualGame.cpp(190,20): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Projects\HOBBY\c++\super_tetris_X\TetrisX\pinksnake\actualGame.cpp(235,43): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Projects\HOBBY\c++\super_tetris_X\TetrisX\pinksnake\actualGame.cpp(235,38): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Projects\HOBBY\c++\super_tetris_X\TetrisX\pinksnake\actualGame.cpp(236,51): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Projects\HOBBY\c++\super_tetris_X\TetrisX\pinksnake\actualGame.cpp(236,43): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Projects\HOBBY\c++\super_tetris_X\TetrisX\pinksnake\actualGame.cpp(282,43): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Projects\HOBBY\c++\super_tetris_X\TetrisX\pinksnake\actualGame.cpp(282,38): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Projects\HOBBY\c++\super_tetris_X\TetrisX\pinksnake\actualGame.cpp(283,61): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Projects\HOBBY\c++\super_tetris_X\TetrisX\pinksnake\actualGame.cpp(283,48): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  buttonClass.cpp
+D:\Projects\HOBBY\c++\super_tetris_X\TetrisX\pinksnake\actualGame.h(44,30): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  introSplash.cpp
+D:\Projects\HOBBY\c++\super_tetris_X\TetrisX\pinksnake\actualGame.h(44,30): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  main.cpp
+D:\Projects\HOBBY\c++\super_tetris_X\TetrisX\pinksnake\actualGame.h(44,30): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\Projects\HOBBY\c++\super_tetris_X\TetrisX\pinksnake\main.cpp(8,20): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+  mainMenuClass.cpp
+D:\Projects\HOBBY\c++\super_tetris_X\TetrisX\pinksnake\actualGame.h(44,30): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  windowManager.cpp
+D:\Projects\HOBBY\c++\super_tetris_X\TetrisX\pinksnake\actualGame.h(44,30): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Generando código...
+  pinksnake.vcxproj -> D:\Projects\HOBBY\c++\super_tetris_X\TetrisX\x64\Debug\pinksnake.exe
